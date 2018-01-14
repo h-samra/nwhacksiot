@@ -1,0 +1,21 @@
+{
+  "name": "nwhacksiotserver",
+  "version": "0.0.4",
+  "description": "",
+  "author": "michaelenglo <michaelenglo10@gmail.com>",
+  "main": "functions/__main__.js",
+  "dependencies": {
+    "lib": "^3.0.1"
+  },
+  "private": true,
+  "stdlib": {
+    "build": "faaslang",
+    "name": "michaelenglo/nwhacksiotserver",
+    "timeout": 10000,
+    "publish": true,
+    "personalize": {
+      "keys": [],
+      "user": []
+    }
+  }
+}
