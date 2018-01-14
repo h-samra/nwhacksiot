@@ -5,6 +5,7 @@
   "author": "michaelenglo <michaelenglo10@gmail.com>",
   "main": "functions/__main__.js",
   "dependencies": {
+    "aws-sdk": "^2.181.0",
     "lib": "^3.0.1",
     "request": "^2.83.0"
   },
