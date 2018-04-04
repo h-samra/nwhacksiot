@@ -12,5 +12,5 @@ Tools used:
 - STDLib (FaaS)
 - AWS
 - React.js
-- Material-UI (React based UI lilbrary).
+- Material-UI (Material Design based UI React lilbrary).
 - Microsoft Face API.
